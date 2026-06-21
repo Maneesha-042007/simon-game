@@ -1,6 +1,6 @@
 body {
   text-align: center;
-  background-color: red;
+  background-color: #011F3F;
 }
 
 #level-title {
@@ -32,11 +32,11 @@ body {
 }
 
 .red {
-  background-color: yellowgreen;
+  background-color: red;
 }
 
 .green {
-  background-color:solid black;
+  background-color:green;
 }
 
 .blue {
@@ -44,7 +44,7 @@ body {
 }
 
 .yellow {
-  background-color: baby pink;
+  background-color: yellow;
 }
 
 .pressed {
